@@ -7,3 +7,5 @@ Also, please create the Exec Plan under the .agent directory.
 
 Please refer to existing Exec Plans in the .agent directory for examples.
 Unless otherwise specified, the working directory is set to the root directory of the repository.
+
+Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions."
